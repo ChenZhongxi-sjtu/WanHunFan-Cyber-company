@@ -1,0 +1,26 @@
+# Generated colleague skills
+colleagues/*
+!colleagues/example_zhangsan/
+!colleagues/example_zhangsan/meta.json
+!colleagues/example_zhangsan/persona.md
+!colleagues/example_zhangsan/work.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Config with credentials
+company_data/provider.yaml
+
+# Runtime artifacts
+company_data/runs/
+knowledge/
+playwright-data/
+
+# OS
+.DS_Store
+Thumbs.db

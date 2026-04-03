@@ -1,0 +1,25 @@
+assignments:
+  li_ming_backend:
+    primary_department: backend
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"
+  chen_xi_frontend:
+    primary_department: frontend
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"
+  wang_yue_product:
+    primary_department: product
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"
+  zhou_qing_qa:
+    primary_department: qa
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"
+  lin_hao_ops:
+    primary_department: ops
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"
+  sun_tong_data:
+    primary_department: data
+    reason: Demo seed data
+    updated_at: "2026-04-02 00:00:00"

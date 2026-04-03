@@ -1,0 +1,54 @@
+company_name: Demo Skill Company
+llm:
+  default_provider: ${COMPANY_LLM_PROVIDER:-mock}
+  routing_mode: ${COMPANY_LLM_ROUTING_MODE:-hybrid}
+  providers:
+    mock:
+      model: mock-sim
+    openai:
+      api_key: ${OPENAI_API_KEY:-}
+      model: ${OPENAI_MODEL:-}
+      base_url: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+    gemini:
+      api_key: ${GEMINI_API_KEY:-}
+      model: ${GEMINI_MODEL:-}
+      base_url: ${GEMINI_BASE_URL:-https://generativelanguage.googleapis.com}
+    qwen:
+      api_key: ${QWEN_API_KEY:-}
+      model: ${QWEN_MODEL:-}
+      base_url: ${QWEN_BASE_URL:-https://dashscope-intl.aliyuncs.com/compatible-mode/v1}
+
+departments:
+  product:
+    name: 产品部
+    description: 负责需求定义、用户洞察和项目推进。
+    keywords: [产品, prd, roadmap, 需求, 用户研究, 增长]
+  backend:
+    name: 后端部
+    description: 负责服务端架构、接口、数据和稳定性。
+    keywords: [后端, backend, java, python, service, api, 数据库]
+  frontend:
+    name: 前端部
+    description: 负责 Web、客户端交互与体验实现。
+    keywords: [前端, frontend, react, vue, ui, 交互, 页面]
+  qa:
+    name: 测试部
+    description: 负责测试策略、质量门禁和回归体系。
+    keywords: [测试, qa, 质量, 回归, 用例, 自动化测试]
+  ops:
+    name: 运维部
+    description: 负责部署、监控、容量和应急响应。
+    keywords: [运维, ops, sre, k8s, 监控, 部署, 告警]
+  data:
+    name: 数据部
+    description: 负责数据分析、算法、指标和建模。
+    keywords: [数据, 算法, 推荐, 分析, 模型, etl, 指标]
+  security:
+    name: 安全部
+    description: 负责风控、权限、安全合规。
+    keywords: [安全, 风控, 权限, 合规, 审计, 加密]
+  general:
+    name: 综合办公室
+    description: 无法可靠归类时的默认部门。
+    keywords: [通用, 协调, 杂项]
+    default: true
