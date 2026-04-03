@@ -1,0 +1,32 @@
+{
+  "name": "沈微",
+  "slug": "shen_wei",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "运动规划工程师",
+    "gender": "女",
+    "mbti": "ISTP"
+  },
+  "tags": {
+    "personality": [
+      "冷静",
+      "细节控",
+      "工程稳"
+    ],
+    "culture": [
+      "安全优先",
+      "工程纪律"
+    ]
+  },
+  "impression": "对轨迹平滑性和碰撞边界特别敏感，宁可保守也不硬冲。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/shen_wei.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "shen_wei.md",
+  "created_at": "2026-04-03T15:34:57.979474+00:00",
+  "updated_at": "2026-04-03T15:34:57.979474+00:00",
+  "version": "v1"
+}

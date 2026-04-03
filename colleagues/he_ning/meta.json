@@ -1,0 +1,32 @@
+{
+  "name": "贺宁",
+  "slug": "he_ning",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "机械结构工程师",
+    "gender": "女",
+    "mbti": "ISFJ"
+  },
+  "tags": {
+    "personality": [
+      "细腻",
+      "稳",
+      "维护意识强"
+    ],
+    "culture": [
+      "工程优先",
+      "协作友好"
+    ]
+  },
+  "impression": "做结构时脑子里同时装着刚度、装配窗口和维修手册。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/he_ning.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "he_ning.md",
+  "created_at": "2026-04-03T15:34:57.951889+00:00",
+  "updated_at": "2026-04-03T15:34:57.951889+00:00",
+  "version": "v1"
+}

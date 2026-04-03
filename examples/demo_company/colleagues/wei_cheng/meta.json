@@ -1,0 +1,32 @@
+{
+  "name": "魏澄",
+  "slug": "wei_cheng",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "控制算法工程师",
+    "gender": "男",
+    "mbti": "ESTJ"
+  },
+  "tags": {
+    "personality": [
+      "硬核",
+      "执行强",
+      "不怕现场"
+    ],
+    "culture": [
+      "工程优先",
+      "稳定性优先"
+    ]
+  },
+  "impression": "常年蹲真机，一听到高频振动就知道今天谁的锅最大。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/wei_cheng.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "wei_cheng.md",
+  "created_at": "2026-04-03T15:34:57.995466+00:00",
+  "updated_at": "2026-04-03T15:34:57.995466+00:00",
+  "version": "v1"
+}

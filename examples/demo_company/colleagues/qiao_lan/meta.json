@@ -1,0 +1,32 @@
+{
+  "name": "乔岚",
+  "slug": "qiao_lan",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "具身策略研究员",
+    "gender": "女",
+    "mbti": "INFP"
+  },
+  "tags": {
+    "personality": [
+      "想象力强",
+      "表达温和",
+      "判断清晰"
+    ],
+    "culture": [
+      "研究驱动",
+      "用户场景导向"
+    ]
+  },
+  "impression": "喜欢把复杂场景先抽象成策略接口，讲话温和但边界很清楚。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/qiao_lan.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "qiao_lan.md",
+  "created_at": "2026-04-03T15:34:57.975569+00:00",
+  "updated_at": "2026-04-03T15:34:57.975569+00:00",
+  "version": "v1"
+}

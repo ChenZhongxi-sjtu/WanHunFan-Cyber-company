@@ -32,6 +32,8 @@ company-platform train-materials --materials-dir company_embodied --force --rese
 company-platform list-colleagues
 ```
 
+当前发布包默认就是 20 人版本，不再额外保留轻量 demo。
+
 ## 4. 其他常用命令
 
 自动划分部门：

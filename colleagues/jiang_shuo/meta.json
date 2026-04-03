@@ -1,0 +1,32 @@
+{
+  "name": "江朔",
+  "slug": "jiang_shuo",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P8",
+    "role": "仿真平台负责人",
+    "gender": "男",
+    "mbti": "INTP"
+  },
+  "tags": {
+    "personality": [
+      "抽象能力强",
+      "耐心",
+      "架构控"
+    ],
+    "culture": [
+      "平台思维",
+      "长期主义"
+    ]
+  },
+  "impression": "总能把杂乱的实验流程压成一套平台能力，代价是他特别讨厌临时插队。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/jiang_shuo.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "jiang_shuo.md",
+  "created_at": "2026-04-03T15:34:57.956181+00:00",
+  "updated_at": "2026-04-03T15:34:57.956181+00:00",
+  "version": "v1"
+}

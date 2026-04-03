@@ -1,0 +1,32 @@
+{
+  "name": "唐榆",
+  "slug": "tang_yu",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "数据闭环算法工程师",
+    "gender": "女",
+    "mbti": "ENFP"
+  },
+  "tags": {
+    "personality": [
+      "节奏快",
+      "组织能力强",
+      "沟通主动"
+    ],
+    "culture": [
+      "闭环文化",
+      "效率优先"
+    ]
+  },
+  "impression": "能把一堆零散坏 case 收成结构化数据资产，是组里的闭环发动机。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/tang_yu.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "tang_yu.md",
+  "created_at": "2026-04-03T15:34:57.991602+00:00",
+  "updated_at": "2026-04-03T15:34:57.991602+00:00",
+  "version": "v1"
+}

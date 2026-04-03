@@ -30,11 +30,12 @@ def test_seed_demo_and_department_assignment(tmp_path: Path):
     assert created
 
     colleagues = platform.load_company()
-    assert len(colleagues) == 6
+    assert len(colleagues) == 20
     departments = {colleague.slug: colleague.department for colleague in colleagues}
-    assert departments["li_ming_backend"] == "backend"
-    assert departments["chen_xi_frontend"] == "frontend"
-    assert departments["wang_yue_product"] == "product"
+    assert departments["zhou_yao"] == "perception"
+    assert departments["gu_zhun"] == "planning"
+    assert departments["pei_chuan"] == "hardware"
+    assert departments["jiang_shuo"] == "platform"
 
 
 def test_all_hands_generates_artifact(tmp_path: Path):
@@ -55,10 +56,10 @@ def test_department_exchange_updates_learning_notes(tmp_path: Path):
     platform = CompanyPlatform(root_dir=root, provider_name="mock")
     platform.repository.seed_demo_company()
 
-    result = platform.exchange_service.run("backend", "frontend", platform.load_company(), topic="接口契约和异常态协作")
+    result = platform.exchange_service.run("perception", "planning", platform.load_company(), topic="状态表征和策略接口协作")
 
     assert result.updated_slugs
-    learning_note = root / "colleagues" / "li_ming_backend" / "company_learning.md"
+    learning_note = root / "colleagues" / "zhou_yao" / "company_learning.md"
     assert learning_note.exists()
     assert "部门交流" in learning_note.read_text(encoding="utf-8")
 
@@ -67,16 +68,18 @@ def test_project_plan_selects_departments_and_owners(tmp_path: Path):
     root = prepare_root(tmp_path)
     platform = CompanyPlatform(root_dir=root, provider_name="mock")
     platform.repository.seed_demo_company()
+    reloaded = CompanyPlatform(root_dir=root, provider_name="mock")
 
-    result = platform.project_service.run(
-        "统一增长实验平台",
-        "建设一个支持埋点治理、实验分流、前后端联调和结果分析的统一平台。",
-        platform.load_company(),
+    result = reloaded.project_service.run(
+        "双臂装配机器人通用操作平台",
+        "需要统一感知输入、技能编排、本体约束和仿真训练平台。",
+        reloaded.load_company(),
     )
 
-    assert "product" in result.departments
-    assert "frontend" in result.departments
-    assert "backend" in result.departments
+    assert "perception" in result.departments
+    assert "planning" in result.departments
+    assert "hardware" in result.departments
+    assert "platform" in result.departments
     assert result.owners
     assert result.artifact_path is not None
     assert result.artifact_path.exists()

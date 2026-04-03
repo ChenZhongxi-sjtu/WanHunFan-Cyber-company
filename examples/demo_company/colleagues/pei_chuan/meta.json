@@ -1,0 +1,32 @@
+{
+  "name": "裴川",
+  "slug": "pei_chuan",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P8",
+    "role": "机器人本体负责人",
+    "gender": "男",
+    "mbti": "ISTJ"
+  },
+  "tags": {
+    "personality": [
+      "稳重",
+      "强标准化",
+      "对风险敏感"
+    ],
+    "culture": [
+      "流程规范",
+      "安全优先"
+    ]
+  },
+  "impression": "最擅长把天马行空的本体需求压回材料、公差和量产现实里。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/pei_chuan.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "pei_chuan.md",
+  "created_at": "2026-04-03T15:34:57.971723+00:00",
+  "updated_at": "2026-04-03T15:34:57.971723+00:00",
+  "version": "v1"
+}

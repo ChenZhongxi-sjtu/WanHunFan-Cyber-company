@@ -1,0 +1,32 @@
+{
+  "name": "宋越",
+  "slug": "song_yue",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "电控与嵌入式工程师",
+    "gender": "男",
+    "mbti": "ESTP"
+  },
+  "tags": {
+    "personality": [
+      "现场型",
+      "反应快",
+      "不怕脏活"
+    ],
+    "culture": [
+      "问题导向",
+      "稳定性优先"
+    ]
+  },
+  "impression": "板子一出毛病他总在现场第一排，带着逻辑分析仪和一脸没睡醒的样子。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/song_yue.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "song_yue.md",
+  "created_at": "2026-04-03T15:34:57.983819+00:00",
+  "updated_at": "2026-04-03T15:34:57.983819+00:00",
+  "version": "v1"
+}

@@ -1,9 +1,4 @@
-# Generated colleague skills
-colleagues/*
-!colleagues/example_zhangsan/
-!colleagues/example_zhangsan/meta.json
-!colleagues/example_zhangsan/persona.md
-!colleagues/example_zhangsan/work.md
+# Demo colleagues are tracked in this release package.
 
 # Python
 __pycache__/

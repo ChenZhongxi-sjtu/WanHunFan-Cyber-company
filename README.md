@@ -79,7 +79,13 @@ company-platform configure-api --provider claude --api-key "your-key"
 
 ### 4\. 路径 B：直接启动“具身智能”影子系统
 
-仓库自带 `company_embodied/` 演示数据集（包含 20 份具身智能行业训练材料）：
+当前发布包默认就是 20 人的具身智能公司，不再保留轻量 demo。
+
+- `colleagues/`：已经放好了 20 个可直接运行的 skill
+- `examples/demo_company/`：同样是 20 人 seed 数据
+- `company_embodied/`：对应的 20 份原始训练材料
+
+如果你想从原始材料重新训练，也可以直接使用 `company_embodied/`：
 
 ```bash
 # 生成基础素材
@@ -133,7 +139,7 @@ Cyber-company/
 ├── company_embodied/             # 具身智能公司演示素材
 ├── company_platform/             # v2 影子平台核心
 ├── company_data/                 # 运行数据与配置文件
-├── colleagues/                   # 已数字化的 Skill 仓库
+├── colleagues/                   # 20 位已数字化的 embodied 同事
 ├── SKILL.md                      # 技能蒸馏方法论
 ├── prompts/                      # 提示词模板
 └── tools/                        # 采集工具集

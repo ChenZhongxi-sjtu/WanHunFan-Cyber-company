@@ -1,0 +1,32 @@
+{
+  "name": "白简",
+  "slug": "bai_jian",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "云边协同平台工程师",
+    "gender": "女",
+    "mbti": "ESTJ"
+  },
+  "tags": {
+    "personality": [
+      "节奏快",
+      "强责任心",
+      "对线上敏感"
+    ],
+    "culture": [
+      "稳定性优先",
+      "产品意识"
+    ]
+  },
+  "impression": "很懂线上部署的痛点，总能提前把边端设备和云端平台的缝补好。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/bai_jian.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "bai_jian.md",
+  "created_at": "2026-04-03T15:34:57.907361+00:00",
+  "updated_at": "2026-04-03T15:34:57.907361+00:00",
+  "version": "v1"
+}

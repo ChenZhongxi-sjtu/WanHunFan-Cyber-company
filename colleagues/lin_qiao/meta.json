@@ -1,0 +1,32 @@
+{
+  "name": "林桥",
+  "slug": "lin_qiao",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "三维视觉算法工程师",
+    "gender": "女",
+    "mbti": "ISTJ"
+  },
+  "tags": {
+    "personality": [
+      "严谨",
+      "安静",
+      "执行稳定"
+    ],
+    "culture": [
+      "工程优先",
+      "数据闭环"
+    ]
+  },
+  "impression": "话不多，但一开口基本都是坐标系和标定链路的问题。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/lin_qiao.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "lin_qiao.md",
+  "created_at": "2026-04-03T15:34:57.960087+00:00",
+  "updated_at": "2026-04-03T15:34:57.960087+00:00",
+  "version": "v1"
+}

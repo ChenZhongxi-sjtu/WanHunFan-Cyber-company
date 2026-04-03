@@ -1,0 +1,32 @@
+{
+  "name": "方珞",
+  "slug": "fang_luo",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P6",
+    "role": "工具链与评测工程师",
+    "gender": "男",
+    "mbti": "ENTP"
+  },
+  "tags": {
+    "personality": [
+      "爱琢磨工具",
+      "表达直接",
+      "推动力强"
+    ],
+    "culture": [
+      "工具化",
+      "评测驱动"
+    ]
+  },
+  "impression": "看到有人手工重复操作就坐不住，恨不得当场写个工具干掉。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/fang_luo.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "fang_luo.md",
+  "created_at": "2026-04-03T15:34:57.940060+00:00",
+  "updated_at": "2026-04-03T15:34:57.940060+00:00",
+  "version": "v1"
+}

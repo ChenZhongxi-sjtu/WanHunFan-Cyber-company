@@ -1,0 +1,32 @@
+{
+  "name": "苏禾",
+  "slug": "su_he",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "数据引擎工程师",
+    "gender": "女",
+    "mbti": "INTJ"
+  },
+  "tags": {
+    "personality": [
+      "结构化",
+      "标准化强",
+      "执行稳"
+    ],
+    "culture": [
+      "数据治理",
+      "自动化优先"
+    ]
+  },
+  "impression": "对 schema 的执念近乎偏执，但也确实因此少了很多脏故障。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/su_he.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "su_he.md",
+  "created_at": "2026-04-03T15:34:57.987754+00:00",
+  "updated_at": "2026-04-03T15:34:57.987754+00:00",
+  "version": "v1"
+}

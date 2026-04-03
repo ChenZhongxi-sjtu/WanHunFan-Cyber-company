@@ -1,0 +1,32 @@
+{
+  "name": "罗砚",
+  "slug": "luo_yan",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "强化学习工程师",
+    "gender": "男",
+    "mbti": "INTP"
+  },
+  "tags": {
+    "personality": [
+      "研究味重",
+      "喜欢追因果",
+      "不迷信大模型"
+    ],
+    "culture": [
+      "实验文化",
+      "论文和工程并重"
+    ]
+  },
+  "impression": "做 RL 很谨慎，最讨厌只给平均 reward 不给失败分布。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/luo_yan.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "luo_yan.md",
+  "created_at": "2026-04-03T15:34:57.967864+00:00",
+  "updated_at": "2026-04-03T15:34:57.967864+00:00",
+  "version": "v1"
+}

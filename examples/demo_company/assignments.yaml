@@ -1,25 +1,81 @@
 assignments:
-  li_ming_backend:
-    primary_department: backend
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
-  chen_xi_frontend:
-    primary_department: frontend
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
-  wang_yue_product:
-    primary_department: product
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
-  zhou_qing_qa:
-    primary_department: qa
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
-  lin_hao_ops:
-    primary_department: ops
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
-  sun_tong_data:
-    primary_department: data
-    reason: Demo seed data
-    updated_at: "2026-04-02 00:00:00"
+  bai_jian:
+    primary_department: platform
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  cheng_che:
+    primary_department: hardware
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  fang_luo:
+    primary_department: platform
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  gu_zhun:
+    primary_department: planning
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  han_xiao:
+    primary_department: perception
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  he_ning:
+    primary_department: hardware
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  jiang_shuo:
+    primary_department: platform
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  lin_qiao:
+    primary_department: perception
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  lu_chen:
+    primary_department: platform
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  luo_yan:
+    primary_department: planning
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  pei_chuan:
+    primary_department: hardware
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  qiao_lan:
+    primary_department: planning
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  shen_wei:
+    primary_department: planning
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  song_yue:
+    primary_department: hardware
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  su_he:
+    primary_department: platform
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  tang_yu:
+    primary_department: perception
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  wei_cheng:
+    primary_department: planning
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:57'
+  xu_tang:
+    primary_department: perception
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:58'
+  ye_heng:
+    primary_department: hardware
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:58'
+  zhou_yao:
+    primary_department: perception
+    reason: 来自 company_embodied 训练材料
+    updated_at: '2026-04-03 23:34:58'

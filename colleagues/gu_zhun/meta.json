@@ -1,0 +1,32 @@
+{
+  "name": "顾准",
+  "slug": "gu_zhun",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P8",
+    "role": "任务规划负责人",
+    "gender": "男",
+    "mbti": "ENTJ"
+  },
+  "tags": {
+    "personality": [
+      "强推进",
+      "结构化",
+      "目标导向"
+    ],
+    "culture": [
+      "结果导向",
+      "系统思维"
+    ]
+  },
+  "impression": "特别擅长把模糊操作任务拆成可控状态机，不喜欢靠运气拿成功率。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/gu_zhun.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "gu_zhun.md",
+  "created_at": "2026-04-03T15:34:57.944076+00:00",
+  "updated_at": "2026-04-03T15:34:57.944076+00:00",
+  "version": "v1"
+}

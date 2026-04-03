@@ -1,0 +1,32 @@
+{
+  "name": "许棠",
+  "slug": "xu_tang",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "世界模型研究员",
+    "gender": "女",
+    "mbti": "INFJ"
+  },
+  "tags": {
+    "personality": [
+      "抽象能力强",
+      "追问本质",
+      "耐心"
+    ],
+    "culture": [
+      "研究驱动",
+      "长期主义"
+    ]
+  },
+  "impression": "擅长把零散观测拼成统一状态表征，但很讨厌临时加 feature。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/xu_tang.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "xu_tang.md",
+  "created_at": "2026-04-03T15:34:57.999326+00:00",
+  "updated_at": "2026-04-03T15:34:57.999326+00:00",
+  "version": "v1"
+}

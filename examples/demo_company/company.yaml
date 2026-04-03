@@ -1,54 +1,54 @@
-company_name: Demo Skill Company
-llm:
-  default_provider: ${COMPANY_LLM_PROVIDER:-mock}
-  routing_mode: ${COMPANY_LLM_ROUTING_MODE:-hybrid}
-  providers:
-    mock:
-      model: mock-sim
-    openai:
-      api_key: ${OPENAI_API_KEY:-}
-      model: ${OPENAI_MODEL:-}
-      base_url: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
-    gemini:
-      api_key: ${GEMINI_API_KEY:-}
-      model: ${GEMINI_MODEL:-}
-      base_url: ${GEMINI_BASE_URL:-https://generativelanguage.googleapis.com}
-    qwen:
-      api_key: ${QWEN_API_KEY:-}
-      model: ${QWEN_MODEL:-}
-      base_url: ${QWEN_BASE_URL:-https://dashscope-intl.aliyuncs.com/compatible-mode/v1}
-
+company_name: 灵枢具身智能
 departments:
-  product:
-    name: 产品部
-    description: 负责需求定义、用户洞察和项目推进。
-    keywords: [产品, prd, roadmap, 需求, 用户研究, 增长]
-  backend:
-    name: 后端部
-    description: 负责服务端架构、接口、数据和稳定性。
-    keywords: [后端, backend, java, python, service, api, 数据库]
-  frontend:
-    name: 前端部
-    description: 负责 Web、客户端交互与体验实现。
-    keywords: [前端, frontend, react, vue, ui, 交互, 页面]
-  qa:
-    name: 测试部
-    description: 负责测试策略、质量门禁和回归体系。
-    keywords: [测试, qa, 质量, 回归, 用例, 自动化测试]
-  ops:
-    name: 运维部
-    description: 负责部署、监控、容量和应急响应。
-    keywords: [运维, ops, sre, k8s, 监控, 部署, 告警]
-  data:
-    name: 数据部
-    description: 负责数据分析、算法、指标和建模。
-    keywords: [数据, 算法, 推荐, 分析, 模型, etl, 指标]
-  security:
-    name: 安全部
-    description: 负责风控、权限、安全合规。
-    keywords: [安全, 风控, 权限, 合规, 审计, 加密]
+  perception:
+    name: 感知与世界模型部
+    description: 负责多模态感知、场景理解、世界模型和数据闭环。
+    keywords:
+    - 感知
+    - 视觉
+    - 世界模型
+    - 多模态
+    - 点云
+    - 传感器
+    - 数据闭环
+  planning:
+    name: 规划与控制部
+    description: 负责任务规划、操作策略、运动控制和强化学习。
+    keywords:
+    - 规划
+    - 控制
+    - 策略
+    - 强化学习
+    - 轨迹
+    - 抓取
+    - 决策
+  hardware:
+    name: 机器人本体部
+    description: 负责机械结构、执行器、电控、可靠性与安全。
+    keywords:
+    - 机械
+    - 本体
+    - 执行器
+    - 电控
+    - 嵌入式
+    - 结构
+    - 可靠性
+  platform:
+    name: 数据仿真平台部
+    description: 负责数据引擎、仿真、训练基础设施、评测和工具链。
+    keywords:
+    - 仿真
+    - 平台
+    - 训练
+    - 评测
+    - 数据引擎
+    - GPU
+    - 工具链
   general:
     name: 综合办公室
     description: 无法可靠归类时的默认部门。
-    keywords: [通用, 协调, 杂项]
+    keywords:
+    - 通用
+    - 协调
+    - 杂项
     default: true

@@ -1,0 +1,32 @@
+{
+  "name": "陆沉",
+  "slug": "lu_chen",
+  "profile": {
+    "company": "灵枢具身智能",
+    "level": "P7",
+    "role": "训练基础设施工程师",
+    "gender": "男",
+    "mbti": "ISTP"
+  },
+  "tags": {
+    "personality": [
+      "冷静",
+      "定位快",
+      "不爱废话"
+    ],
+    "culture": [
+      "SRE",
+      "工程效率"
+    ]
+  },
+  "impression": "对 GPU 配额、容器镜像和训练失败率比谁都敏感，话很少但能稳住场面。",
+  "knowledge_sources": [
+    "/home/hanyu/wanhunfan/Cyber-company/company_embodied/lu_chen.md"
+  ],
+  "corrections_count": 0,
+  "source_collection": "company_embodied",
+  "source_material": "lu_chen.md",
+  "created_at": "2026-04-03T15:34:57.963991+00:00",
+  "updated_at": "2026-04-03T15:34:57.963991+00:00",
+  "version": "v1"
+}
