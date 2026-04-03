@@ -79,8 +79,6 @@ company-platform configure-api --provider claude --api-key "your-key"
 
 ### 4\. 路径 B：直接启动“具身智能”影子系统
 
-当前发布包默认就是 20 人的具身智能公司，不再保留轻量 demo。
-
 - `colleagues/`：已经放好了 20 个可直接运行的 skill
 - `examples/demo_company/`：同样是 20 人 seed 数据
 - `company_embodied/`：对应的 20 份原始训练材料
