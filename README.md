@@ -97,7 +97,8 @@ company-platform list-colleagues
 # 发起全员咨询
 company-platform all-hands --question "下个季度我们要搞个双臂操作平台，具体怎么分工？"
 ```
-![同事香香软软的tokens](cybercompany/output_png/output.png)
+![同事香香软软的tokens](output_png/output.png)
+
 -----
 
 ## 组织管理命令
@@ -152,4 +153,3 @@ Copyright (c) 2024 titanwings
 Copyright (c) 2026 SJTU-Scalelab-CZX
 
 *“在赛博世界里，没人能真正离职，他们只是换了一种形式陪你加班。”*
-

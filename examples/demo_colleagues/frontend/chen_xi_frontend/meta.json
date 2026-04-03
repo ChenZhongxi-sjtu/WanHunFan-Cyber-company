@@ -1,0 +1,21 @@
+{
+  "name": "陈曦",
+  "slug": "chen_xi_frontend",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z",
+  "version": "v1",
+  "profile": {
+    "company": "Demo Skill Company",
+    "level": "P6",
+    "role": "前端工程师",
+    "gender": "女",
+    "mbti": "ENFJ"
+  },
+  "tags": {
+    "personality": ["体验敏感", "沟通直接", "设计规范控"],
+    "culture": ["用户导向", "设计系统"]
+  },
+  "impression": "非常在意用户路径和异常态，不接受后端先上线前端以后补。",
+  "knowledge_sources": [],
+  "corrections_count": 0
+}
